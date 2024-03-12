@@ -1,4 +1,4 @@
-# Android device tree for Fiberhome HG680-LY (p291_iptv)
+# Android device tree for Droidlogic UNT413A5_GD2 (p291_iptv)
 
 ```
 #

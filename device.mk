@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/fiberhome/p291_iptv
+LOCAL_PATH := device/jiulian/p291_iptv

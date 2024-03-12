@@ -9,7 +9,7 @@
 set -e
 
 DEVICE=p291_iptv
-VENDOR=fiberhome
+VENDOR=jiulian
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

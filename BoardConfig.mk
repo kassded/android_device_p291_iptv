@@ -10,6 +10,10 @@ DEVICE_PATH := device/fiberhome/p291_iptv
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
+BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+
+
 # Architecture
 TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a-neon
